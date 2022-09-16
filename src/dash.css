@@ -1,0 +1,402 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-3-icon {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  width: 29px;
+  height: 46px;
+  object-fit: cover;
+}
+.pear-div {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  letter-spacing: -0.06em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div,
+.welcome-back-john {
+  position: absolute;
+  left: 42px;
+  font-size: 46.07px;
+}
+.group-div {
+  top: 41px;
+  width: 129px;
+  height: 60px;
+  color: #159500;
+}
+.welcome-back-john {
+  top: 147px;
+  letter-spacing: -0.06em;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div {
+  position: absolute;
+  top: 245px;
+  left: 34px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 101px rgba(0, 0, 0, 0.06);
+  width: 469px;
+  height: 241px;
+}
+.your-learning-progress {
+  position: absolute;
+  top: 267px;
+  left: 53px;
+  font-size: 18px;
+  letter-spacing: -0.06em;
+  color: #858585;
+  display: inline-block;
+}
+.rectangle-div1,
+.rectangle-div2 {
+  position: absolute;
+  top: 361px;
+  left: 104px;
+  border-radius: 23px;
+  background-color: #efefef;
+  width: 375px;
+  height: 9px;
+}
+.rectangle-div2 {
+  left: 53px;
+  background-color: #29d919;
+  width: 218px;
+}
+.explore-popular-courses,
+.flutter-101-b {
+  position: absolute;
+  top: 302.5px;
+  left: 53px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+}
+.explore-popular-courses {
+  top: 552px;
+  left: 34px;
+}
+.explore-courses-div {
+  top: 52px;
+  left: 1151px;
+}
+.explore-courses-div,
+.home-div,
+.next-up-b,
+.state-management-part-2 {
+  position: absolute;
+  letter-spacing: -0.06em;
+  display: inline-block;
+}
+.home-div {
+  top: 52px;
+  left: 1020px;
+  color: #0fb700;
+}
+.next-up-b,
+.state-management-part-2 {
+  left: 123px;
+}
+.next-up-b {
+  top: 406px;
+  font-size: 16.06px;
+  color: #29d919;
+}
+.state-management-part-2 {
+  top: 427px;
+  font-size: 18.74px;
+}
+.ellipse-icon,
+.vector-icon {
+  position: absolute;
+  top: 401px;
+  left: 53px;
+  width: 56px;
+  height: 56px;
+}
+.vector-icon {
+  top: 422.14px;
+  left: 77px;
+  border-radius: 2px;
+  width: 11px;
+  height: 19px;
+}
+.new-b {
+  position: absolute;
+  top: 631px;
+  left: 850px;
+  font-size: 10.39px;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  color: #fff;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 101px rgba(0, 0, 0, 0.06);
+  width: 414px;
+  height: 508px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: -97px;
+  left: -34px;
+  border-radius: 15px 15px 0 0;
+  width: 549px;
+  height: 443px;
+  object-fit: cover;
+}
+.gordon-ramsey-b,
+.senior-android-developer-at-no {
+  position: absolute;
+  top: 310.96px;
+  left: 76px;
+  font-size: 15.19px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  color: #0b0b0b;
+}
+.senior-android-developer-at-no {
+  top: 329px;
+  font-size: 12.42px;
+  color: #828282;
+}
+.image-7-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 180px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.group-div2,
+.rectangle-div4 {
+  position: absolute;
+  top: 303px;
+  left: 16px;
+  width: 50px;
+  height: 50px;
+}
+.rectangle-div4 {
+  top: 16px;
+  left: 353px;
+  border-radius: 79px;
+  background-color: #29d919;
+  width: 47px;
+  height: 22px;
+}
+.new-b1 {
+  position: absolute;
+  top: 20px;
+  left: 364px;
+  font-size: 10.39px;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  color: #fff;
+}
+.hours-3-hours-per-week-for-3,
+.next-batch-starts-on-8th-augus {
+  position: absolute;
+  top: 435px;
+  left: 46px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+}
+.hours-3-hours-per-week-for-3 {
+  top: 408px;
+  left: 45px;
+}
+.clock-1-icon {
+  position: absolute;
+  top: 410px;
+  left: 18px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.pears-already-joined {
+  position: absolute;
+  top: 372px;
+  left: 46px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 374px;
+  left: 18px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.group-div1 {
+  position: absolute;
+  top: 619px;
+  left: 34px;
+  width: 414px;
+  height: 508px;
+  font-size: 16px;
+  color: #8c8c8c;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px 15px 0 0;
+  background-color: #fff;
+  width: 417px;
+  height: 241px;
+}
+.rectangle-icon1 {
+  border-radius: 15px 15px 0 0;
+  object-fit: cover;
+}
+.group-div4,
+.rectangle-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 417px;
+  height: 241px;
+}
+.mern-stack-fundamentals {
+  position: absolute;
+  top: 256px;
+  left: 16px;
+  font-size: 25.62px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  color: #000;
+}
+.group-div3 {
+  position: absolute;
+  top: 619px;
+  left: 483px;
+  width: 417px;
+  height: 508px;
+  font-size: 16px;
+  color: #8c8c8c;
+}
+.rectangle-icon2 {
+  position: absolute;
+  top: -97px;
+  left: -101px;
+  border-radius: 15px 15px 0 0;
+  width: 616px;
+  height: 443px;
+  object-fit: cover;
+}
+.group-div6 {
+  position: absolute;
+  top: 619px;
+  left: 932px;
+  width: 414px;
+  height: 508px;
+  font-size: 16px;
+  color: #8c8c8c;
+}
+.group-div8,
+.image-7-icon3 {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+}
+.image-7-icon3 {
+  top: 0;
+  left: 0;
+  border-radius: 150px;
+  object-fit: cover;
+}
+.group-div8 {
+  top: 38px;
+  left: 1405px;
+}
+.macbook-pro-14-16 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1754px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 29.5px;
+  color: #000;
+  font-family: DM Sans;
+}
+
+.cardx {
+  display: flex;
+  width: 100vw;
+  margin-left: 210px;
+  margin-top: 60px;
+}
+
+.card-card {
+  padding: 20px;
+  margin-right: 70px;
+  width: 270px !important;
+}
+
+.card-card h1 {
+  text-decoration: underline;
+  margin-top: 50px;
+}
+
+.card-card p {
+  text-decoration: underline;
+}
+
+.card-card h1:hover {
+  color: #0d6300;
+}
+
+.card-card p:hover {
+  color: #0d6300;
+}
+
+.dash-text {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.course-main {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: rgb(227, 251, 215);
+}
+
+.start-btn {
+  background-color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  margin-bottom: 50px;
+}
+
+.start-btn:hover {
+  background-color: #0d6300;
+  color: white;
+  cursor: pointer;
+}
+
+.course-id {
+  font-size: 50px;
+}
+
+.course-text {
+  font-size: 50px;
+}

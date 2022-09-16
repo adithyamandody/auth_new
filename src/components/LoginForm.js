@@ -47,7 +47,7 @@ function LoginForm() {
   return user ? (
     <Navigate to="/" />
   ) : (
-    <>
+    <div className="login-form">
       <h2 className="text-2xl font-bold text-gray-800 text-left mb-2">Login</h2>
       <form onSubmit={handleLogin} className="w-full text-sm">
         <InputWL
@@ -117,7 +117,7 @@ function LoginForm() {
           Sign Up
         </Link>
       </div>
-    </>
+    </div>
   );
 }
 
